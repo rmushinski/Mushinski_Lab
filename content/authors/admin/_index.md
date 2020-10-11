@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ryan Mushinski
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Warwick
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My current work seeks to determine the biogenic sources of reactive nitrogen oxides in terrestrial ecosystems.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Biogeochemistry
+- Environmental Microbiology
+- Ecosystem Ecology
+- Soil Science
+- Atmospehric & Environmental Chemistry
+- Stable Isotope Ecology
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Postdoc in Biogeochemistry
+    institution: Indiana University
+    year: 2017-2020
+  - course: PhD in Ecosystem Science with emphasis in Biogeochemistry
+    institution: Texas A&M University
+    year: 2013-2017
+  - course: BSc in Biology & Chemistry
+    institution: Texas State University
+    year: 2009-2012
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,13 +47,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: '#contact'  # For a direct email link, use "mailto:Ryan.Mushinski@warwick.ac.uk".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/ryanmushinski
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=BqvUo70AAAAJ&hl=en
 - icon: github
   icon_pack: fab
   link: https://github.com/gcushen
